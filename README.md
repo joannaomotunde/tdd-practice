@@ -13,7 +13,7 @@ This project implements functions with test-driven development using Vitest.
 7. findMax(arr)
 ## Test Result
 
-![Tests Passing](./screenshots/tests-passing.png)
+![Tests Passing](./src/screenshots/tests-passing.png)
 
 
 ## How to run tests
